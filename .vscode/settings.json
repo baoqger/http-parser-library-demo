@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "http_parser.h": "c",
+        "stdio.h": "c"
+    }
+}
